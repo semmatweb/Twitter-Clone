@@ -1,0 +1,27 @@
+/* html, body{
+    padding: 0;
+    margin: 0;
+}
+*{
+    background-color: #000000;
+} */
+
+.imgg .roww i{
+    color: #ffffff;
+    /* border: 1px solid #ffffff; */
+    border-radius: 100%;
+    transition: 0.5s;
+    width: 50%;
+    position: absolute;
+    bottom: 30%;
+    right: 35%;
+    align-items: center;
+    justify-items: center;
+    display: flex;
+    font-size: 300px;
+}
+.roqq .classes {
+    color: #ffffff; 
+    font-size: 40px;
+    padding: 30px;
+}
